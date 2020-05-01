@@ -1,2 +1,9 @@
-# My Drawing App Intro
-This is a basic drawing app that uses node, express and socket.io
+# Drawing App Basic
+This is a very simple client-server drawing app
+
+This uses:
+- node
+- socket.io
+- socket.io-client
+- express
+- p5.js
